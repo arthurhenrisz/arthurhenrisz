@@ -15,6 +15,7 @@
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif">
           
 ##
   
